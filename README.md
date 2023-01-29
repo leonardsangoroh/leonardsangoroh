@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, Welcome to my cave</h1>
 <h3 align="center">A passionate iOS developer from Kenya</h3>
 
-![coding](https://github.com/leonardsangoroh/leonardsangoroh/blob/main/github.gif?raw=true)
+<div align="center">
+  <img src="github.gif" alt="animated" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardsangoroh&label=Profile%20views&color=0e75b6&style=flat" alt="leonardsangoroh" /> </p>
 
