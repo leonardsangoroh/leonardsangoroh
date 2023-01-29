@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Leonard Sangoroh</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-<img align = “right” alt = “Coding” width = “400” src = “https://github.com/leonardsangoroh/leonardsangoroh/blob/main/header.png”>
+![coding](https://github.com/leonardsangoroh/leonardsangoroh/blob/main/github.gif?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardsangoroh&label=Profile%20views&color=0e75b6&style=flat" alt="leonardsangoroh" /> </p>
 
