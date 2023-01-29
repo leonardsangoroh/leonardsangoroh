@@ -1,4 +1,3 @@
-<img alt = "header image" src = "profile">
 <h1 align="center">Hi 👋, I'm Leonard Sangoroh</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
