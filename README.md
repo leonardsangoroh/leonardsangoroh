@@ -1,7 +1,7 @@
 ![coding](https://github.com/leonardsangoroh/leonardsangoroh/blob/main/header.png?raw=true)
 
-<h1 align="center">Hi 👋, I'm Leonard Sangoroh</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h1 align="center">Hi 👋, Welcome to my cave</h1>
+<h3 align="center">A passionate iOS developer from Kenya</h3>
 
 ![coding](https://github.com/leonardsangoroh/leonardsangoroh/blob/main/github.gif?raw=true)
 
