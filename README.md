@@ -1,7 +1,7 @@
 ![coding](https://github.com/leonardsangoroh/leonardsangoroh/blob/main/header.png?raw=true)
 
 <h1 align="center">Welcome to my cave</h1>
-<h3 align="center">A passionate iOS developer from Kenya</h3>
+<h3 align="center">A passionate ML engineer & iOS developer from Kenya</h3>
 
 <div align="center">
   <img src="github.gif" alt="animated" />
