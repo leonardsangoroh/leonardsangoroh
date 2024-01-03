@@ -7,5 +7,3 @@
 - 🌱 Currently focusing on **iOS development**
 
 - 📫 How to reach me **leonardsangoroh@gmail.com**
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardsangoroh&" alt="leonardsangoroh" /></p>
