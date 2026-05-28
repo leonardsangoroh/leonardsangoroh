@@ -1,8 +1,6 @@
 ![coding](https://github.com/leonardsangoroh/leonardsangoroh/blob/main/header.png?raw=true)
 
 
-- 🔭 Currently working on [**Muma Maler**](https://leonardsangoroh.github.io/MumaMalerLandingPage/)
-
-- 🌱 Currently focusing on **Python, API dev, LLMs, iOS dev**
+- 🌱 Currently focusing on **Python, APIs, LLMs, iOS development, and Agents**
 
 - 📫 How to reach me **leonardsangoroh@gmail.com**
