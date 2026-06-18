@@ -3,4 +3,4 @@
 
 - 🌱 Currently focusing on **Python, APIs, LLMs, iOS development, and Agents**
 
-- 📫 How to reach me **leonardsangoroh@gmail.com**
+- 📫 How to reach me **systemswithlee@gmail.com**
